@@ -1,4 +1,4 @@
-<h1 align=«center»>¡Hola a Todos, soy Jonathan Acosta Albarracin! :estrellas:</h1>
+<h1 align=«center»>¡Hola a Todos, soy Jonathan Acosta Albarracin! :star:</h1>
 
 
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white&link=https://linkedin.com/in/brennankbrown/)](https://linkedin.com/in/jonathanacostaok/)
